@@ -1,4 +1,4 @@
-# Projeto Final
+# CALCULADORA
 
 * 🖥️ Exercício: Projeto Final
 * 🏫 Instituição: Etec Adolpho Berezin
@@ -36,7 +36,7 @@ Inclua uma opção para o usuário sair do programa.
 
 ### Avisos
 
- * Para poder iniciar o projeto, você deve ter instalado em sua máquina o .NET 4.5 ou maior, você pode encontrar a última versão do SDK em: <a href="https://dotnet.microsoft.com/en-us/download/visual-studio-sdks"></a>
+ * Para poder iniciar o projeto CALCULADORA, você deve ter instalado em sua máquina o .NET 4.5 ou maior, você pode encontrar a última versão do SDK em: <a href="https://dotnet.microsoft.com/en-us/download/visual-studio-sdks"></a>
 
 ### Vamos para prática !!
 
@@ -72,10 +72,39 @@ Divisão:
 
 ```Obs.: Para Divisão, evite efetuar cálculos que tenham como dividendo o número "0", senão ele não efetuará o cálculo, conforme mostrado acima.```
 
-* 4-) Refazer o cálculo: Caso deseje realizar o cálculo novamente, em todo fim de cálculo irá exibir a mensagem "Deseja realizar o cálculo novamente ?", caso queira, digite "Y", caso contrário, "N".
+* 4-) Refazer o cálculo: Caso deseje realizar o cálculo novamente, em todo fim de cálculo irá exibir a mensagem "Deseja realizar o cálculo novamente ?", caso queira, digite "Y", caso contrário, "N":
 
 ![ReiniciarCalculo](https://user-images.githubusercontent.com/55560279/145657952-e949374e-be68-4632-9adf-a5d54daaa00c.gif)
 
 
+* 5-) Exponenciação: Para realizar o cálculo de exponênciação, primeiro digite o valor da base, e em seguida o valor do expoente para elevar a potência digitada:
+
+Exemplo de como o cálculo é feito: 
+
+![image](https://user-images.githubusercontent.com/55560279/145658702-3749fc07-a7b3-4870-8f01-8b86fb266778.png)
+
+Exponenciação em prática:
+
+![Exponenciacao](https://user-images.githubusercontent.com/55560279/145658598-f903ac79-1928-4714-a127-3b5151320dde.gif)
+
+
+* 6-) Radiciação: Para realizar o cálculo de radiciação, digite o valor do radiciando, e em seguida o valor do índice:
+
+Exemplo de como o cálculo é feito:
+
+![image](https://user-images.githubusercontent.com/55560279/145658731-79960693-a056-4f3c-953a-3fcb6bb0032b.png)
+
+Radiciação em prática:
+
+![Radiciacao](https://user-images.githubusercontent.com/55560279/145658744-a1614590-ae05-45c6-a8bf-a8aa1c00ce72.gif)
+
+* 7-) Sobre: Para visualizar mais informações do projeto, digite 7 no menu e em seguida utilize o link descrito no projeto.
+
+![image](https://user-images.githubusercontent.com/55560279/145658804-99b057e4-5ab5-4fd7-b0a2-b135ba10bac3.png)
+
+
+## Download
+
+Link para Download: 
 
 <h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
