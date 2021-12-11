@@ -92,7 +92,7 @@ Exponenciação em prática:
 
 Exemplo de como o cálculo é feito:
 
-<img src= "https://user-images.githubusercontent.com/55560279/145658731-79960693-a056-4f3c-953a-3fcb6bb0032b.png" style="width: auto; height: auto;max-width: 120px;max-height: 100px">
+![image](https://user-images.githubusercontent.com/55560279/145659081-0d330d73-c7df-4c90-87cc-5acfaef8908d.png)
 
 Radiciação em prática:
 
