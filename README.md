@@ -73,6 +73,9 @@ Divisão:
 ```Obs.: Para Divisão, evite efetuar cálculos que tenham como dividendo o número "0", senão ele não efetuará o cálculo, conforme mostrado acima.```
 
 * 4-) Refazer o cálculo: Caso deseje realizar o cálculo novamente, em todo fim de cálculo irá exibir a mensagem "Deseja realizar o cálculo novamente ?", caso queira, digite "Y", caso contrário, "N".
+
 ![ReiniciarCalculo](https://user-images.githubusercontent.com/55560279/145657952-e949374e-be68-4632-9adf-a5d54daaa00c.gif)
+
+
 
 <h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
