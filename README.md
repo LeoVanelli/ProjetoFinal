@@ -51,16 +51,24 @@ Inclua uma opção para o usuário sair do programa.
 * 3-) Menus de Operações Básicas: A partir do menu principal, você poderá estar realizando as operações básicas de "Adição, Subtração, Multiplicação e Divisão" (Itens 1,2,3 e 4, respectivamente). Para utiliza-los você deve inserir dois valores e em seguida o sistema efetuará o cálculo desejado:
 
 Soma:
+
 ![Soma](https://user-images.githubusercontent.com/55560279/145657940-86a85779-ca86-43e5-88c5-af1847914608.gif)
 
+
 Subtração:
+
 ![Subtracao](https://user-images.githubusercontent.com/55560279/145658011-ebaa9af3-2d88-4a9e-a724-9fbdc26a70f5.gif)
 
+
 Multiplicação:
+
 ![Multiplicacao](https://user-images.githubusercontent.com/55560279/145658181-5a9b0c66-6355-4cb1-9dea-1de2c1a84991.gif)
 
+
 Divisão:
+
 ![Divisao](https://user-images.githubusercontent.com/55560279/145658187-0c5f76ba-27ad-4e8e-9e0a-9ac9f563433e.gif)
+
 
 ```Obs.: Para Divisão, evite efetuar cálculos que tenham como dividendo o número "0", senão ele não efetuará o cálculo, conforme mostrado acima.```
 
