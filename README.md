@@ -40,21 +40,31 @@ Inclua uma opção para o usuário sair do programa.
 
 ### Vamos para prática !!
 
-* 1. Primeiros passos:  Abra o terminal do Windows e navegue para dentro da pasta do projeto,e em seguida digite "dotnet run":
+* 1-) Primeiros passos:  Abra o terminal do Windows e navegue para dentro da pasta do projeto,e em seguida digite "dotnet run":
 
 ![image](https://user-images.githubusercontent.com/55560279/145656477-74ae18ea-8b2e-439e-b58d-ae46675b3068.png)
 
-* 2. Menu de Opções:  Dentro do menu, você poderá estar inserindo a opção desejada informando um dos números informados, e em seguida apertando a tecla "ENTER":
+* 2-) Menu de Opções:  Dentro do menu, você poderá estar inserindo a opção desejada informando um dos números informados, e em seguida apertando a tecla "ENTER":
 
-![image](https://user-images.githubusercontent.com/55560279/145656565-1e742417-23cc-41b3-8193-37af2f6cb9c2.png)
+![Menu](https://user-images.githubusercontent.com/55560279/145657926-b39a099f-e66d-4c0d-b781-f2b70506e9af.gif)
 
-* 3. Menu de Soma: Inserindo o número "1", você entrará no menu de SOMA, ali você deve informar dois números, e após confirma-los o sistema irá realizar uma conta de adição. 
+* 3-) Menus de Operações Básicas: A partir do menu principal, você poderá estar realizando as operações básicas de "Adição, Subtração, Multiplicação e Divisão" (Itens 1,2,3 e 4, respectivamente). Para utiliza-los você deve inserir dois valores e em seguida o sistema efetuará o cálculo desejado:
 
-![image](https://user-images.githubusercontent.com/55560279/145656689-bef06ae1-9820-4521-b90e-8a82756d13b5.png)
+Soma:
+![Soma](https://user-images.githubusercontent.com/55560279/145657940-86a85779-ca86-43e5-88c5-af1847914608.gif)
 
-* 4. Refazer o cálculo: Caso deseje realizar o cálculo novamente, em todo fim de cálculo irá exibir a mensagem "Deseja realizar o cálculo novamente ?", caso queira, digite "Y", caso contrário, "N".
+Subtração:
+![Subtracao](https://user-images.githubusercontent.com/55560279/145658011-ebaa9af3-2d88-4a9e-a724-9fbdc26a70f5.gif)
 
-![image](https://user-images.githubusercontent.com/55560279/145656830-84aa11d2-00b5-49ef-8749-b021af99ee31.png)
+Multiplicação:
+![Multiplicacao](https://user-images.githubusercontent.com/55560279/145658181-5a9b0c66-6355-4cb1-9dea-1de2c1a84991.gif)
 
-* 5. 
+Divisão:
+![Divisao](https://user-images.githubusercontent.com/55560279/145658187-0c5f76ba-27ad-4e8e-9e0a-9ac9f563433e.gif)
+
+```Obs.: Para Divisão, evite efetuar cálculos que tenham como dividendo o número "0", senão ele não efetuará o cálculo, conforme mostrado acima.```
+
+* 4-) Refazer o cálculo: Caso deseje realizar o cálculo novamente, em todo fim de cálculo irá exibir a mensagem "Deseja realizar o cálculo novamente ?", caso queira, digite "Y", caso contrário, "N".
+![ReiniciarCalculo](https://user-images.githubusercontent.com/55560279/145657952-e949374e-be68-4632-9adf-a5d54daaa00c.gif)
+
 <h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
