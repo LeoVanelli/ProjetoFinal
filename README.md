@@ -105,6 +105,10 @@ Radiciação em prática:
 
 ## 🔗 Download
 
-Link para Download: [download](https://github.com/LeoVanelli/ProjetoFinal/archive/refs/heads/main.zip)
+[Clique aqui para baixar o projeto](https://github.com/LeoVanelli/ProjetoFinal/archive/refs/heads/main.zip)
+
+Link de Download: https://github.com/LeoVanelli/ProjetoFinal/archive/refs/heads/main.zip
+
+
 
 <h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
