@@ -6,7 +6,7 @@
 * 👨‍🏫 Orientador: <a href="https://github.com/ermogenes">Prof.: Ermogenes</a> & <a href="https://github.com/diegoneri">Prof.: Diego Neri</a>
 * 📖 Respositório do exercício: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/projeto_2019_1.md
   
-## Introdução
+## 🧾 Introdução
 
 O objetivo desse projeto é criar um _software_ que atenda a especificação abaixo. Assim como devo compartilhar o código-fonte no GitHub e publicar o repositório utilizando GitHub Pages.
 
@@ -32,7 +32,7 @@ Inclua uma opção para o usuário sair do programa.
 * [Bônus] Uso dos recursos adequados a cada situação.
 
 
-## Manual de Uso
+## 📖 Manual de Uso
 
 ### Avisos
 
@@ -103,8 +103,8 @@ Radiciação em prática:
 ![image](https://user-images.githubusercontent.com/55560279/145658804-99b057e4-5ab5-4fd7-b0a2-b135ba10bac3.png)
 
 
-## Download
+## 🔗 Download
 
-Link para Download: ![download](https://github.com/LeoVanelli/ProjetoFinal/archive/refs/heads/main.zip)
+Link para Download: [download](https://github.com/LeoVanelli/ProjetoFinal/archive/refs/heads/main.zip)
 
 <h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
