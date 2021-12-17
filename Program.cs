@@ -30,7 +30,8 @@ namespace Projeto_Final
 
                     case 1:
                         Console.Clear();
-                        Adicao.Somar();
+                        Adicao Adic = new Adicao();
+                        Adic.Somar();
                         break;
                     
                     case 2:
