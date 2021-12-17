@@ -5,7 +5,7 @@ namespace CalcularAdicao
 {
     class Adicao
     {
-        public static void Somar(){
+        public void Somar(){
             string _escolha = default;
 
             while(_escolha != "N"){
